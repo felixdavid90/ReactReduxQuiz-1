@@ -20,8 +20,6 @@ class App extends Component {
 
     const { children } = this.props;
     //let date = Date.now();
-    console.log( colorArray[1][1]);
-    console.log("THE CHILDREN??++", children);
    // this.checkJson(json);
     return (
       <div>
