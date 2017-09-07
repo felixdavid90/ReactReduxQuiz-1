@@ -23,7 +23,7 @@ export default class About extends Component {
                     <Col>
                     <div>
                     <Button onClick={ ()=> this.setState({ open: !this.state.open })}>
-                        Personal Statement
+                        Sample 1
                     </Button>
                     <Collapse in={this.state.open}>
                         <div>
@@ -43,7 +43,7 @@ export default class About extends Component {
                     <Col>
                     <div className='cvButton'>
                     <Button onClick={ ()=> this.setState({ open1: !this.state.open1 })}>
-                        Education
+                        Sample 2
                     </Button>
                     <Collapse in={this.state.open1}>
                         <div>
@@ -62,7 +62,7 @@ export default class About extends Component {
                     <Col>
                     <div className='cvButton'>
                     <Button onClick={ ()=> this.setState({ open2: !this.state.open2 })}>
-                        Sample
+                        Sample 3
                     </Button>
                     <Collapse in={this.state.open2}>
                         <div>
@@ -81,7 +81,7 @@ export default class About extends Component {
                     <Col>
                     <div className='cvButton'>
                     <Button onClick={ ()=> this.setState({ open3: !this.state.open3 })}>
-                        click
+                        Sample 4
                     </Button>
                     <Collapse in={this.state.open3}>
                         <div>
@@ -100,7 +100,7 @@ export default class About extends Component {
                     <Col>
                     <div className='cvButton'>
                     <Button onClick={ ()=> this.setState({ open4: !this.state.open4 })}>
-                        click
+                        Sample 5
                     </Button>
                     <Collapse in={this.state.open4}>
                         <div>
