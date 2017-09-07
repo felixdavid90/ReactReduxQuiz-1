@@ -16,6 +16,6 @@ npm install
 npm start
 ```
 
-**This should pop-up on your terminal'**
+**This should pop-up on your terminal if you followed all the instructions**
 
 ==> 🌎  Listening on port 3000. Open up http://localhost:3000/ in your browser.
